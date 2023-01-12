@@ -12,7 +12,9 @@ body {
 /* Background Zone Color & Border Zone Color */
 canvas {
     background-color: #9b9b9b;
-    border: 1px solid red;
+    border: 2px solid red;
+    border-radius: 5px;
+    box-shadow: darkgray 3px 3px 3px ;
 }
 /*
 https://GitHub.com/YasinDehfuli
