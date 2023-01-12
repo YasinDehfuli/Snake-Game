@@ -1,0 +1,26 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Snake-Game.git"
+  },
+  "keywords": [
+    "GameJs",
+    "JavaScript",
+    "Game",
+    "Nostalgic",
+    "SnakeGame"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Snake-Game/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/Snake-Game#readme"
+}

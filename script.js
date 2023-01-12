@@ -136,3 +136,5 @@ document.addEventListener('keydown', function(e) {
 
 // start the game
 requestAnimationFrame(loop);
+// https://GitHub.com/YasinDehfuli
+// https://CodePen.io/YasinDehfuli

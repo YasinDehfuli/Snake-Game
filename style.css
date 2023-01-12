@@ -2,14 +2,19 @@ html, body {
     height: 100%;
     margin: 0;
 }
-
+/* Unzone Background Color */
 body {
     background: black;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+/* Background Zone Color & Border Zone Color */
 canvas {
     background-color: #9b9b9b;
     border: 1px solid red;
 }
+/*
+https://GitHub.com/YasinDehfuli
+https://CodePen.io/YasinDehfuli
+*/
